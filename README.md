@@ -1,4 +1,4 @@
-# FuelLift 🏋️
+# NutriFlow
 
 Your personal maingain fitness & nutrition tracker. A fully offline-capable web app — no account, no server, no subscription.
 
